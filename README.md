@@ -1,4 +1,4 @@
 STT3530
 =======
 
-Materials for STT 3530
+We are going to have a blast!
