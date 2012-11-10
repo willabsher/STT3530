@@ -9,3 +9,4 @@
 * R Reproducible Analysis: http://cran.r-project.org/web/views/ReproducibleResearch.html
 * Some examples from my classes using LaTeX and `knitr`: http://www1.appstate.edu/~arnholta/TeX/index.htm
 * Clever help finding LaTeX symbols: http://detexify.kirelabs.org/classify.html
+* `ggplot2` documentation: http://docs.ggplot2.org/current/
